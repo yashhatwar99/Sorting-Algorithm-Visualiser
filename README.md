@@ -32,17 +32,10 @@ It demonstrates popular sorting algorithms step by step with live animations.
 | **Close Window** | Quit the program           |
 
 ---
-
-## ▶️ How to Run
-
-1. Install dependencies:
-   ```bash
-   pip install pygame
-
 ```bash
 1. Clone the repo
-   git clone https://github.com/your-username/sorting-visualizer.git
-   cd sorting-visualizer
+   git clone https://github.com/yashhatwar99/Sorting-Algorithm-Visualiser.git
+   cd Sorting-Algorithm-Visualiser
 
 2. Install dependencies
    pip install pygame
