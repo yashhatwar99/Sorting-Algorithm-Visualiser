@@ -48,7 +48,7 @@ It demonstrates popular sorting algorithms step by step with live animations.
    python main.py
 ```
 
-##⚙️ Project Structure
+##  ⚙️ Project Structure
 ```bash
 📂 sorting-visualizer
  ├── main.py       # Sorting visualizer code
@@ -56,25 +56,25 @@ It demonstrates popular sorting algorithms step by step with live animations.
  └── README.md     # Documentation
 ```
 
-##📚 Concepts Covered
+## 📚 Concepts Covered
 - Sorting algorithms
 - Pygame graphics rendering
 - Real-time event handling (keyboard & mouse input)
 - Visualization techniques for DSA
 
-##📝 Future Improvements
+## 📝 Future Improvements
 - Add more algorithms (Heap Sort, Radix Sort, Shell Sort).
 - Add speed control slider.
 - Add step-by-step mode to move one iteration at a time.
 - Improve UI design (buttons instead of only keys).
 
-##🤝 Contribution
+## 🤝 Contribution
 Pull requests and suggestions are welcome!
 If you’d like to contribute, please fork the repo and create a PR.
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Developed by Yash Hatwar
 
