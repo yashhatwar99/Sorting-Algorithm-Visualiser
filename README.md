@@ -19,6 +19,24 @@ It demonstrates popular sorting algorithms step by step with live animations.
 
 ---
 
+## 🎥 Demo Videos
+
+### Bubble Sort
+![Bubble Sort](assets/bubble.gif)
+
+### Merge Sort
+![Merge Sort](assets/merge.gif)
+
+### Quick Sort
+![Quick Sort](assets/quick.gif)
+
+### Insertion Sort
+![Insertion Sort](assets/insertion.gif)
+
+### Selection Sort
+![Selection Sort](assets/selection.gif)
+
+
 ## 🎮 Controls
 
 | Key     | Action                              |
