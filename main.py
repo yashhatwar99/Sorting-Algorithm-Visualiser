@@ -52,7 +52,7 @@ screen=pygame.display.set_mode((width,height))
 # ┌─┐┌┬┐┬ ┬┌─┐┬─┐  ┬┌┐┌┌─┐┌─┐
 # │ │ │ ├─┤├┤ ├┬┘  ││││├┤ │ │
 # └─┘ ┴ ┴ ┴└─┘┴└─  ┴┘└┘└  └─┘
-speed=1
+speed=1000 #maybe it is the max
 
 
 
@@ -83,9 +83,9 @@ for number in range(n):
 
 def print_screen():
     screen.fill(white)
-    Make_Bars_From_List()
+    Make_Bars_From_List() #above both function just updated data internally below function will print that on screen
     pygame.display.update()# after each iterstion update karo list ko aur print kro
-    event_in_main_loop()
+    event_in_main_loop()  #check which key pressed for responsive action
     clock.tick(speed)
 
 
