@@ -52,7 +52,7 @@ screen=pygame.display.set_mode((width,height))
 # ┌─┐┌┬┐┬ ┬┌─┐┬─┐  ┬┌┐┌┌─┐┌─┐
 # │ │ │ ├─┤├┤ ├┬┘  ││││├┤ │ │
 # └─┘ ┴ ┴ ┴└─┘┴└─  ┴┘└┘└  └─┘
-speed=1000 #maybe it is the max
+speed=10 #maybe it is the max
 
 
 
