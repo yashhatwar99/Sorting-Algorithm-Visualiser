@@ -70,7 +70,7 @@ It demonstrates popular sorting algorithms step by step with live animations.
 ```bash
 📂 sorting-visualizer
  ├── main.py       # Sorting visualizer code
- ├── demo.gif      # Demo animation (add your recording here)
+ ├── assets      # Demo animation (add your recording here)
  └── README.md     # Documentation
 ```
 
