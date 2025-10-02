@@ -24,17 +24,17 @@ It demonstrates popular sorting algorithms step by step with live animations.
 ### Bubble Sort
 ![Bubble Sort](assets/bubble.gif)
 
-### Merge Sort
-![Merge Sort](assets/merge.gif)
-
-### Quick Sort
-![Quick Sort](assets/quick.gif)
+### Selection Sort
+![Selection Sort](assets/selection.gif)
 
 ### Insertion Sort
 ![Insertion Sort](assets/insertion.gif)
 
-### Selection Sort
-![Selection Sort](assets/selection.gif)
+### Quick Sort
+![Quick Sort](assets/quick.gif)
+
+### Merge Sort
+![Merge Sort](assets/merge.gif)
 
 
 ## 🎮 Controls
