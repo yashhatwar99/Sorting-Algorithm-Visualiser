@@ -30,11 +30,11 @@ It demonstrates popular sorting algorithms step by step with live animations.
 ### Insertion Sort
 ![Insertion Sort](assets/insertion.gif)
 
-### Quick Sort
-![Quick Sort](assets/quick.gif)
-
 ### Merge Sort
 ![Merge Sort](assets/merge.gif)
+
+### Quick Sort
+![Quick Sort](assets/quick.gif)
 
 
 ## 🎮 Controls
